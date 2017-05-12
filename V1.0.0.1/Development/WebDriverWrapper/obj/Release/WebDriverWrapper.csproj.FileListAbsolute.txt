@@ -1,0 +1,11 @@
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\IEDriverServer.exe
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\geckodriver.exe
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\chromedriver.exe
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\WebDriverWrapper.dll
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\WebDriverWrapper.pdb
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\WebDriver.dll
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\WebDriver.Support.dll
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\WebDriver.xml
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\bin\Release\WebDriver.Support.xml
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\obj\Release\WebDriverWrapper.dll
+C:\CeSharp\Projects\ClickEasySolution\V1.0.0.0\Development\WebDriverWrapper\obj\Release\WebDriverWrapper.pdb

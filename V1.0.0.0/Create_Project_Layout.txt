@@ -1,0 +1,6 @@
+1. Create Project Layout
+2. Create Build Events
+3. Installed All Selenium Packages
+4. Created Link Items
+5. Configured out Test Project To Draw from Resources
+6. Configured Assemble References
